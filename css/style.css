@@ -1,0 +1,60 @@
+h1 {
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.info {
+  text-align: center;
+  font-size: 19px;
+}
+
+#profPic {
+  border-radius: 50%;
+  width: 270px;
+}
+
+.center-padding {
+  margin: 0px 9px 0px 9px;
+}
+
+.icon-row {
+  margin-top: 20px;
+}
+
+.icon-back {
+  font-size: 27px;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border-radius:5px;
+  vertical-align: middle;
+  line-height: 55px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.icon-back:link, .icon-back:visited, .icon-back:active {
+  text-decoration: none; color: white;
+  background-color: #808080;
+}
+
+.publicationDiv {
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom:10px;
+  overflow:hidden;
+  padding-top:10px;
+}
+
+.publicationDivider {
+  width:80%;
+  margin:auto;
+  height:1px;
+  background-color: #808080;
+}
+
+
+.noStyle, .noStyle:hover, .noStyle:visited, .noStyle:active {
+  text-decoration: none;
+  color:#404040;
+}

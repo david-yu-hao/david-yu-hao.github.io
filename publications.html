@@ -1,0 +1,32 @@
+---
+layout: default
+title: Publications
+---
+
+{% for post in site.posts %}
+<div class="publicationDivider"></div>
+  <!-- <div class="container"> -->
+<div class="publicationDiv container">
+  <a href="{{ post.link }}" class="noStyle">
+    <div class="row">
+      <div class="col-xs-9 text-left">
+        <b>{{ post.title }}</b>
+      </div>
+      <div class="col-xs-3 text-right">
+        {{ post.date | date_to_string }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 text-left" style="margin-bottom:5px;">
+        {{ post.publisher }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 text-justify">
+        {{ post.excerpt }}
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
+<div class="publicationDivider" style="margin-bottom:10px;"></div>

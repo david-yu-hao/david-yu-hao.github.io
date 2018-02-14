@@ -1,0 +1,53 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Lato';
+}
+
+.centralContainer{
+    width: 70%;
+    position: absolute;
+    top:20%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.navBar {
+  width: 70%;
+  position: absolute;
+  top:8%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navOptions {
+  font-size: 16px;
+  margin: 17px;
+  color: #707070;
+}
+
+.navOptions:hover {
+  color: #707070;
+}
+
+.navLine {
+  margin:auto;
+  width: 285px;
+  height: 1.3px;
+  background-color: #808080;
+}
+
+.navLineBottom {
+  margin-top: 10px;
+}
+
+.navLineTop {
+  margin-bottom: 10px;
+}
