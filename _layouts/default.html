@@ -3,20 +3,16 @@
 {% include header.html %}
 
 <body>
-
-<div class="site">
-  <div class="navBar">
-    <div class="navLine navLineTop"></div>
-    <a href="/" class="navOptions">Home</a>
-    <a href="/publications" class="navOptions">Publications</a>
-    <!-- <a href="/" class="navOptions">Experience</a> -->
-    <div class="navLine navLineBottom"></div>
+  <div class="site">
+    <div class="navBar">
+      <div class="navLine navLineTop"></div>
+      <a href="/" class="navOptions">Home</a>
+      <a href="/publications" class="navOptions">Publications</a>
+      <!-- <a href="/" class="navOptions">Experience</a> -->
+      <div class="navLine navLineBottom"></div>
+    </div>
+    <div class="centralContainer">
+      {{ content }}
+    </div>
   </div>
-
-
-  <div class="centralContainer">
-    {{ content }}
-  </div>
-</div>
 </body>
-</html>
