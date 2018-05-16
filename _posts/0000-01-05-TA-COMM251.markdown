@@ -1,0 +1,11 @@
+---
+layout: default
+date:   0000-01-01 00:00:00 -0000
+title:  "Teaching Assistant"
+dates: Sep 2017 - Jan 2018
+company: "Smith School of Business at Queen's University"
+location: Kingston, Ontario
+logo: "../assets/smith.png"
+categories: experience
+---
+COMM 251 Organizational Behaviour, under Professor Wenjue Knutsen.

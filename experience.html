@@ -1,0 +1,35 @@
+---
+layout: default
+title: Publications
+---
+
+{% for post in site.categories.experience %}
+<div class="publicationDivider"></div>
+<div class="publicationDiv container">
+  <div class="row">
+    <div class="col-xs-9 text-left">
+      <b>{{ post.title }}</b>
+    </div>
+    <div class="col-xs-3 text-right">
+      {{ post.dates }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-10 text-left">
+      <div style="margin-bottom:10px;">
+        {{ post.company }} <br/>
+        {{ post.location }}
+      </div>
+      <div>
+        {{ post.excerpt }}
+      </div>
+    </div>
+    <div class="col-xs-2 logobox">
+      <img id="logo" src={{post.logo}} />
+    </div>
+  </div>
+</div>
+{% endfor %}
+<div class="publicationDivider" style="margin-bottom:10px;"></div>
+
+{% include footer.html %}

@@ -1,0 +1,11 @@
+---
+layout: default
+date:   0000-01-01 00:00:00 -0000
+title:  "Competitor, Queen's Case Competition Union (QCCU)"
+dates: Sep 2012 - Sep 2016
+company: "Smith School of Business at Queen's University"
+location: Kingston, Ontario
+logo: "../assets/smith.png"
+categories: experience
+---
+Selected as one of six members from 118 applicants in the 2017 pool to represent the Queen's University Smith School of Business at domestic and international case study competitions.

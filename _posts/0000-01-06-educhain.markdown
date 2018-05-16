@@ -1,0 +1,13 @@
+---
+layout: default
+date:   0000-01-01 00:00:00 -0000
+title:  "Business Development Analyst"
+dates: Sep 2016 - May 2018
+company: "EduChain"
+location: Ontario, Canada
+logo: "../assets/educhain.png"
+categories: experience
+---
+EduChain aims to leverage blockchain-based platforms and advanced data analytics to revolutionize how we store, share, and analyze educational performance.
+
+To learn more, visit http://educhain.io/

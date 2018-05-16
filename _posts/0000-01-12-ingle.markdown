@@ -1,0 +1,14 @@
+---
+layout: default
+date:   0000-01-01 00:00:00 -0000
+title:  "Researcher and Writer"
+dates: Aug 2014 - Present
+company: "Ingle International"
+location: Toronto, Ontario
+logo: "../assets/ingle.png"
+categories: experience
+---
+-	Construction of country reports and geopolitical databases
+-	Content contributor to health and travel navigation mobile app
+-	Translator: On-call for English and Mandarin call-center responses
+-	Write and edit company articles for public relations

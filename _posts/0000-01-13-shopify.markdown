@@ -1,0 +1,15 @@
+---
+layout: default
+date:   0000-01-01 00:00:00 -0000
+title:  "Business Operations & Strategy"
+dates: May 2018 - Present
+company: "Shopify"
+location: Waterloo, Ontario
+logo: "../assets/shopify.png"
+categories: experience
+---
+Shopify Plus, a component of Shopify, gives high growth, high volume merchants the scalability, reliability, and flexibility they need, without all the hassles, long timelines, and expense of traditional solutions. The Shopify Platform powers the dreams over 500,000 merchants worldwide, including customers like Kanye West, RedBull, GE, ColourPOP, Kylie, P&G, and The New York Times.
+
+The Business Operations (BizOps) team sits in the centre of the Shopify organization, linking together all the different functional groups both strategically and operationally.
+
+Completing an 8-month internship.

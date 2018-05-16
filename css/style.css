@@ -60,6 +60,18 @@ h1 {
   background-color: #808080;
 }
 
+#logo {
+  margin-left:auto;
+  margin-bottom:auto;
+  margin-top:20px;
+  height:auto;
+  width: 50px;
+}
+
+.logobox {
+  display: flex;
+  flex-flow:column;
+}
 
 .noStyle, .noStyle:hover, .noStyle:visited, .noStyle:active {
   text-decoration: none;

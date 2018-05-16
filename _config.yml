@@ -28,3 +28,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+To update resume:
+  - Replace resume.pdf in assets folder (same name)
+To update posts:
+  - Everything is under the _posts folder
+  - All experience is under 0000-01-0_-name.markdown
+  - All publications are under YYYY-MM-DD-name.markdown
